@@ -1,0 +1,7 @@
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\plugins\pruebaEssentials.esapi.dll
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\plugins\pruebaEssentials.esapi.pdb
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\Projects\pruebaEssentials\obj\x64\Debug\pruebaEssentials.csprojAssemblyReference.cache
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\Projects\pruebaEssentials\obj\x64\Debug\pruebaEssentials.csproj.CoreCompileInputs.cache
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\Projects\pruebaEssentials\obj\x64\Debug\pruebaEssentials.csproj.CopyComplete
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\Projects\pruebaEssentials\obj\x64\Debug\pruebaEssentials.esapi.dll
+C:\Users\varianinstaller\Documents\Eclipse Scripting API\New folder\Projects\pruebaEssentials\obj\x64\Debug\pruebaEssentials.esapi.pdb
